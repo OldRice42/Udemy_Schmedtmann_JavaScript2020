@@ -18,3 +18,61 @@ Course Breakdown
 
 ================================
 
+Course FAQ:
+https://github.com/jonasschmedtmann/complete-javascript-course
+
+Recources:
+http://codingheroes.io/resources/%20%F0%9F%94%97
+
+Discord:
+https://discord.gg/uhMkpf4
+
+YouTube Channel:
+https://www.youtube.com/channel/UCNsU-y15AwmU2Q8QTQJG1jw
+
+================================
+
+...***Code Editors***...
+
+VS Code is one of the most widely used Editors
+Other editors include Atom and Brackets
+This course uses VS Code. It works on every platform.
+
+Settings used:
+-Color Theme - Monikai Pro (My personal preferred is Gloom Dark)
+-Files: Auto Save - onFocuseChange
+-Editor: Multi Cursor Modifier - ctrlCmd
+-Editor: Formato on Save - Yes (this will be used by a formator we will be installing later)
+-Icon Theme - Minimal (Visual Stuido Code) (My personal preferred is Material Icon Theme)
+
+================================
+
+...***The Browser's Console***...
+
+-The console can be opened in a web browser to test JS commands. To try a Hello World, open the console and enter
+  alert("Hello World!")
+then press Enter. A pop up should appear with Hello World in it.
+-The console can hold variables. Try this one out:
+  let js = 'amazing'
+  if (js === 'amazing') alert('JavaScript is FUN!')
+This should return a prompt with JavaScript is FUN!
+  js = 'boring'
+  if (js === 'amazing') alert('JavaScript is FUN!')
+This should not return anything, because we changed the variable for js from 'amazing' to 'boring'.
+-You can reuse previous commands by pressing the up key.
+-The console can also be used as a calculator.
+  40+8+23-10
+This should return 61 in the console
+
+================================
+
+...***Fundimentals Part 1***...
+
+"JavaScript is a high-level (we don't have to worry about complex stuff like memory management), object-oriented )based on objects, for storing most kinds of data), multi-paradigm (we can use differnent styles of programming) programming language (instruct the computer to do things)."
+
+3 core techs in WebDev
+-HTML: content (nouns)
+-CSS: style (adjectives)
+-JavaScript: function (verbs)
+
+
