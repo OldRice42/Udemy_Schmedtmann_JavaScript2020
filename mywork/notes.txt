@@ -1,0 +1,20 @@
+Course Breakdown
+2: Fundamentals - Pt1
+3: Fundamentals - Pt2
+5: Developer Skils
+7: DOM Manipulation
+9: Modern Operators (ES6+)
+10: Functions
+11: Arrays
+12: Numbers, Dates, and Timers
+13: Advanced DOM
+14: Object-Oriented JS
+15: Mapty Project
+16: Asynchronous JS
+17: Modern JS Applications
+18: Forkify Project
+19: Deployment and GIT
+
+
+================================
+
