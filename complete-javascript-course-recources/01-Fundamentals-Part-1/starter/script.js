@@ -120,13 +120,19 @@ x++; //x = x + 1
 x--;
 x--;
 console.log(x);
-
+*/
 //Comparison Opperators
 console.log(ageJonas > ageSarah); // <. >. <=, >=
 console.log(ageSarah >= 18);
 
 const isFullAge = ageSarah >= 18;
 
-console.log(now - 1991 > 2018);
-*/
+console.log(now - 1991 > now - 2018);
 
+//developer.mozilla.org for the precidence, or order of opperations that JS uses.
+
+console.log(25 - 10 - 5);
+
+let x, y:
+  x = y = 25 - 10 - 5; //10
+console.log(x)
